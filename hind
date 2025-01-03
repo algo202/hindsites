@@ -1,0 +1,33 @@
+<html>
+<title>My Website</title>
+<body style="font-family:sans--serif;">
+<header>
+</header>
+ <img scr="https://www.shutterstock.com/shutterstock/photos/2191865505/display_1500/stock-vector--bit-pixel-art-apple-fruit-pixels-for-game-assets-in-vector-illustration-2191865505.jpg" width="50px" height="50px">   
+<h1 style="background-color:#ff6961">Flavors of the World, One Recipe at a Time</h1>
+</header>
+<main>
+<p>"Where every meal tells a story, and every bite is a memory."</p>
+<img src="https://images.app.goo.gl/wDijsJgL2nECu26J8alt= alt="cooking"style="width:300px;">
+<table style="border: 1px solid black; : collapse">
+<tr style="background-color:#ff6961;">
+<td>BESTmeals</td>
+<td>ingrediants</td>
+<td>Price</td>
+</tr>
+<tr>
+<td>Garlic Butter Salmon with Lemon and Asparagus</td>
+<td>: Chicken breasts, fettuccine pasta, heavy cream, Parmesan cheese, garlic, butter, and parsley.</td>
+<td>From $50</td>
+</tr>
+<tr>
+<td>Creamy Chicken Alfredo Pasta</td>
+<td>Salmon fillets, garlic, butter, lemon juice, olive oil, asparagus, salt, and pepper.</td>
+<td>From $40</td>
+</tr>
+</table>
+</main>
+<footer>
+</footer>
+</body>
+</html>
